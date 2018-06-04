@@ -2,6 +2,8 @@
 
 Solution to the Udacity Flying Car Nanodegree Estimation Project
 
+![PDF Writeup](Readme.pdf)
+
 Here are the setup and install instructions for each of the recommended IDEs for each different OS options:
 
 ### Windows ###
